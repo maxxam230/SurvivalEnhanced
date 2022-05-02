@@ -1,0 +1,12 @@
+main: me.max.base.Main
+name: Survival
+version: '0.01'
+author: maxxam230
+description: Survival
+api-version: 1.13
+commands:
+  test:
+    description: /test
+
+
+      
